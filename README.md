@@ -8,3 +8,5 @@
 ##### I'm just random highscool student passing by in Internet...
 
 ![Alt Text](https://media.tenor.com/S2TlbsmiokQAAAAC/border-line-violet.gif)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gurainzu)
