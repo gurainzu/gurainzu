@@ -1,5 +1,7 @@
 ![alt text](https://img.wattpad.com/userbgs/jomssans_.1920.62277.jpg)
 
+<div align="center">
+
 # Hi, there!
 
 ### You can call me Geran or Gurainzu, whatever you want to call me.
@@ -20,3 +22,7 @@
 [![javascript](https://img.shields.io/badge/javascript--lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gurainzu&theme=dark://github.com/gurainzu)
+
+![view](https://komarev.com/ghpvc/?username=gurainzu&style=flat-square&label=was&nbsp;here!)
+
+  </div>
