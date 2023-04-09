@@ -1,5 +1,7 @@
-<img src="https://img.wattpad.com/userbgs/jomssans_.1920.62277.jpg"> 
- <h1>Hewwo, its me :3 👋 </h1> 
+![alt text](https://img.wattpad.com/userbgs/jomssans_.1920.62277.jpg)
+
+
+ <h1>Hewwo, its me :3 👋 </h1> 
   
  yo, I'am Gurainzu / Geran whatever you call me what..., I'm still a student from a random highschool in Jakarta.
  よろしくお願いします, 
