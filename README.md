@@ -8,7 +8,9 @@
 
 <sub>but dont call me by real name in Internet, it is kinda scary.</sub>
 
-##### I'm just random highscool student passing by in Internet...
+Interested in Frontend, you can find me or watch my slow progress below.
+  
+よろしくお願いいたします!
 
 ![Alt Text](https://media.tenor.com/S2TlbsmiokQAAAAC/border-line-violet.gif)
 
