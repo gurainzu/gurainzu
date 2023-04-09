@@ -1,11 +1,10 @@
 ![alt text](https://img.wattpad.com/userbgs/jomssans_.1920.62277.jpg)
 
+# Hi, there!
+### You can call me Geran or Gurainzu, whatever you want to call me.
 
- <h1>Hewwo, its me :3 👋 </h1> 
-  
- yo, I'am Gurainzu / Geran whatever you call me what..., I'm still a student from a random highschool in Jakarta.
- よろしくお願いします, 
-  
- <h1> You can find me on ;</h1> 
- <a href="https://www.instagram.com/gurainzu" target="_blank"><p class="p1head">My Instagram </p></a> 
- <a href="https://www.twitter.com/gurainzu" target="_blaml"><p class="p2head">My Twitter  (its not active tho :v)</p></a>
+<sub>but dont call me by real name in Internet, it is kinda scary.</sub>
+
+##### I'm just random highscool student passing by in Internet...
+
+![Alt Text](https://media.tenor.com/S2TlbsmiokQAAAAC/border-line-violet.gif)
