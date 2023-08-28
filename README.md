@@ -23,8 +23,6 @@ Interested in Frontend, you can find me or watch my slow progress below.
 [![css](https://img.shields.io/badge/css-★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
 [![javascript](https://img.shields.io/badge/javascript--lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gurainzu&theme=dark://github.com/gurainzu)
-
 ![view](https://komarev.com/ghpvc/?username=gurainzu&style=flat-square&label=was&nbsp;here!)
 
   </div>
